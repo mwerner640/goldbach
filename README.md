@@ -8,4 +8,4 @@ You must have the library primesieve installed.
 
 #### Note
 
-Sufficiently large numbers may need more memory than your system can handle. This will lead the bad\_alloc notice. 
+Sufficiently large numbers may need more memory than your system can handle. This will lead to a bad\_alloc notice. 
